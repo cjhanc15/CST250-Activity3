@@ -1,0 +1,15 @@
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\bin\Debug\net6.0\ConsoleAppExample3.exe
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\bin\Debug\net6.0\ConsoleAppExample3.deps.json
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\bin\Debug\net6.0\ConsoleAppExample3.runtimeconfig.json
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\bin\Debug\net6.0\ConsoleAppExample3.dll
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\bin\Debug\net6.0\ConsoleAppExample3.pdb
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.csproj.AssemblyReference.cache
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.AssemblyInfoInputs.cache
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.AssemblyInfo.cs
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.csproj.CoreCompileInputs.cache
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.dll
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\refint\ConsoleAppExample3.dll
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.pdb
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ConsoleAppExample3.genruntimeconfig.cache
+C:\Users\Shadow\source\repos\CST250Activity3\ConsoleAppExample3\obj\Debug\net6.0\ref\ConsoleAppExample3.dll
